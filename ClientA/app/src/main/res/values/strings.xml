@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ClientA</string>
+    <string name="empty_username">Please enter username.</string>
+</resources>
